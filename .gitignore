@@ -1,5 +1,4 @@
 *.md
-!README.md
 
 # Cloudflare Worker (worker/): local state and secrets
 .wrangler/
